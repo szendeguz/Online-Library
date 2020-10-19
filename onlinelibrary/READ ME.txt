@@ -1,0 +1,11 @@
+Test users:
+username: testUser password: Pwd1234
+username: user2 password: pass1
+-testUser has two books already rented
+-user2 has one book already rented
+
+Test admins:
+username: admin passsword: admin
+username: admin2 passsword: admin2
+
+MySQL statements to create the database are located in the database file folder in the online library sql file.

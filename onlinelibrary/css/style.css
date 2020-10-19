@@ -1,0 +1,69 @@
+body{
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url(../img/library2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+.login-box{
+    max-width:700px;
+    margin:150px auto;
+    height:auto;
+}
+
+.login-left{
+    background:rgba(255,255,255, .75);
+    padding:30px;
+    margin: auto;
+    width: 50%;
+}
+
+.singupBtn{
+    text-decoration: none;
+    color:#fff;
+}
+
+.navbar{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background: rgba(255,255,255,.6) !important;
+}
+
+.table-responsive{
+    margin-top:10rem !important;
+}
+
+.booktable{
+    background-color:rgba(255,255,255, .75);
+}
+
+.updateDiv{
+    display:none;
+}
+
+.showDiv{
+    display:block;
+}
+
+.updateAdminDiv{
+    display:none;
+}
+
+.showAdminDiv{
+    display:block;
+}
+
+.addBooksDiv{
+    display:none;
+}
+
+.showBooks{
+    display:block;
+}
+
+.showBooks #whitetxt{
+    color:#fff;
+}
+
